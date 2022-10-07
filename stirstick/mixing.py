@@ -67,7 +67,7 @@ def concentration_mixing_3c(c1, c2, c3, resolution=0.1):
 
 
 def ratio_concentration_mixing_2c(df, resolution=0.1):
-    """calculate the concentration of a 2 end-member mixture between a ratio of two componenets
+    """Calculate the concentration of a 2 end-member mixture between a ratio of two componenets
     and a concentration according to Albarede (1995) eq. 1.3.7
 
     Args:
