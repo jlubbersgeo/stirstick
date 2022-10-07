@@ -1,4 +1,7 @@
 # ```stirstick``` a package for geochemical mixing
+[![PyPI version](https://badge.fury.io/py/stirstick.svg)](https://badge.fury.io/py/stirstick) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+
 Welcome to the repository for the package ```stirstick```! This is a small package solely devoted to calculating and visualizing 2 and 3 component geochemical mixing models. 
 
 Quantifying and visualizing geochemical mixtures exists in many earth science disciplines. This quantification can range from relatively simple two component mixing of concentrations to significantly more complex n-component mixing of isotopic ratios and everything in between. For a more in-depth explanation of mxing theory the following references are incredibly useful:
